@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="background">board.png</file>
+        <file>Bishop_b.png</file>
+        <file>Bishop_w.png</file>
+        <file>King_b.png</file>
+        <file>King_w.png</file>
+        <file>Knight_b.png</file>
+        <file>Knight_w.png</file>
+        <file>Pawn_b.png</file>
+        <file>Pawn_w.png</file>
+        <file>Queen_b.png</file>
+        <file>Queen_w.png</file>
+        <file>Rook_b.png</file>
+        <file>Rook_w.png</file>
+    </qresource>
+</RCC>
